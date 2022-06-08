@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <br />
 <div id="badges" align="center">
-  <a href="your-linkedin-URL](https://www.linkedin.com/in/durrah-khan-1a3660171">
+  <a href="https://www.linkedin.com/in/durrah-khan-1a3660171">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/durrah-khan-1a3660171">
