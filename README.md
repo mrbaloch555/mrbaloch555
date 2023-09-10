@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 </div>
 
 ### About Me :
-- :telescope: I’m a Data Scientits and a Full Stack Web Developer.
+- :telescope: I’m a Data scientist and a Full Stack Web Developer.
 
 - :seedling: Build multiple web applications and AI projects.
 
-- :zap: In my free time, I solve problems on Hacker Rank.
+- :zap: I solve problems on Leetcode in my free time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mr.Baloch-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durrah-khan-1a3660171/)
 
