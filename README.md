@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ---
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/mrbaloch555/blob/output/github-contribution-grid-snake.gif)
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbaloch555&show_icons=true&theme=radical)                                                                                                                                               
