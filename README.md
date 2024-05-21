@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 - :zap: I solve problems on Leetcode in my free time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mr.Baloch-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/durrah-khan-1a3660171/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
